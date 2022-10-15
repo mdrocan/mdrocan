@@ -1,4 +1,4 @@
-# mdrocan
+# Mikko Drocan
 
 Hi! Thanks for passing by my GitHub profile :) Would you happen to have \
 anything you want to ask about, feel free to contact and ask.
